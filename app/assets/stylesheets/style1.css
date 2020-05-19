@@ -1,0 +1,52 @@
+html,body {
+ margin: 0;
+}
+.btn {
+	background-color: inherit;
+	border: none;
+	outline: none;
+	text-transform: uppercase;
+	cursor: pointer;
+
+}
+
+
+.large-padding {
+ padding: 10px;
+}
+
+#logo {
+	font-size: 0.8em;
+	}
+.no-margin{
+ margin: 0;
+}
+
+.field,.actions {
+	margin-top: 1em;
+}
+
+.logo{
+	max-height: 80px;
+}
+
+.form-control {
+	border: 100%;
+	border-bottom: 1px solid;
+	outline: none;
+	width: 100%;
+	display: block;
+	padding: 10px 0px;
+	font-size: 1.2em;
+}
+.be-black{
+ 	background-color:black;
+
+}
+.be-red{
+ 	background-color: red;
+
+}
+.white {
+ color:white;
+}
